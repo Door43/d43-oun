@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[oun:home|Door43 (oun)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-oun|d43-oun repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-oun/archive/master.zip|d43-oun.zip]]
+
+**Recent Changes**
+{{changes>ns = oun}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/oun|Ethnologue data]]
+
